@@ -1,1 +1,1 @@
-# DMSpringTest
+Guide for Discrete Math test
